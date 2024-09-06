@@ -1,3 +1,6 @@
+/* COP 3330 Assignment 1
+This program is written by: Tyler Carpenter */
+
 import java.util.Scanner;
 import java.util.Arrays;
 
